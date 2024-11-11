@@ -7,6 +7,8 @@ This project is a cross-platform mental health assistant chatbot using the Mistr
 - Cross-platform compatibility (Windows, Linux)
 - Localhost GUI using Chainlet
 ![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 ## Installation
 1. Clone the repository.
    ```bash
