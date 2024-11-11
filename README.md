@@ -11,7 +11,10 @@ This project is a cross-platform mental health assistant chatbot using the Mistr
 1. Clone the repository.
    ```bash
    git clone https://github.com/MELVIN10101/HBot.git
-2. cd HBot
-3. pip install -r requirements.txt
-4. python code.py
+2. ```bash
+   cd HBot
+3. ```bash
+   pip install -r requirements.txt
+4. ```bash
+   python3 code.py
 
